@@ -35,3 +35,8 @@
 ## Используемая библиотека Volley:
 
 Volley — это библиотека для выполнения сетевых запросов в Android-приложениях. Она значительно упрощает работу с сетевыми запросами, обработку JSON-ответов и управление асинхронными задачами. В данном примере используется Volley для отправки HTTP-запроса и получения ответа от API.
+
+
+![image](https://github.com/user-attachments/assets/d9e9b1b8-e3b2-4efe-a16a-5537e0e25c22)
+![image](https://github.com/user-attachments/assets/802cdf85-e01d-463f-bec5-d05f766988cc)
+
